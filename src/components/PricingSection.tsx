@@ -70,8 +70,8 @@ export const PricingSection: React.FC<PricingSectionProps> = ({ styleConfig, onO
                   <span className="text-base font-semibold text-slate-900">
                     - 95 €
               
-                </div>
-              </div>
+                
+            
 
               <ul className="space-y-2 text-sm text-slate-700 pt-3 border-t border-slate-200/60">
                 <li className="flex items-start gap-1">
