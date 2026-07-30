@@ -77,7 +77,7 @@ export const PricingSection: React.FC<PricingSectionProps> = ({ styleConfig, onO
                 
             
 
-              
+        
             </div>
 
           </div>
