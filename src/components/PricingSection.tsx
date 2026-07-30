@@ -66,9 +66,13 @@ export const PricingSection: React.FC<PricingSectionProps> = ({ styleConfig, onO
                 <div className="flex items-baseline gap-2">
                   <span className="text-sm font-bold uppercase tracking-wider text-slate-800">
                     Séance indiquée pour le travail en EMDR
-                  
-                
+                  </span>
+                  <span className="text-base font-semibold text-slate-900"
                     - 95 €
+                </span>
+                
+                
+                
               
                 
             
