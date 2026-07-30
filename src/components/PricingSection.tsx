@@ -75,7 +75,7 @@ export const PricingSection: React.FC<PricingSectionProps> = ({ styleConfig, onO
 
               <ul className="space-y-2 text-sm text-slate-700 pt-3 border-t border-slate-200/60">
                 <li className="flex items-start gap-1">
-                  <span>- Travail de retraitement et intégration EMDR</span>
+                  <span>-</span>
                 </li>
               </ul>
             </div>
