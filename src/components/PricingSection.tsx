@@ -68,7 +68,7 @@ export const PricingSection: React.FC<PricingSectionProps> = ({ styleConfig, onO
                     Séance indiquée pour le travail en EMDR
                   </span>
                   <span className="text-base font-semibold text-slate-900">
-                    - 95 €
+                   - 95 €
                 </span>
                 
                 
